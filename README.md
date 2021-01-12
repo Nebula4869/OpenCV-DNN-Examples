@@ -11,4 +11,4 @@ Examples of forward inference of object detection models with OpenCV's DNN modul
 1. Open "TestOpenCVDNN.sln" and configure OpenCV environment.
 3. Compile the project then run to call the object detection models.
 
-Note: Only MobileNet-SSD COCO-pretrained model is provided, YOLOv3 models need to be downloaded from  https://pjreddie.com/darknet/yolo.
+Note: Only MobileNet-SSD and Mask-RCNN COCO-pretrained model is provided, YOLOv3 models need to be downloaded from  https://pjreddie.com/darknet/yolo.

@@ -352,5 +352,3 @@ MigrationBackup/
 # models
 *.cfg
 *.weights
-mdoels/mask_rcnn_inception_v2_coco_2018_01_28.pb
-mdoels/mask_rcnn_inception_v2_coco_2018_01_28.pbtxt
